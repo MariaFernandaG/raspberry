@@ -43,6 +43,8 @@
 
 ## HABILIRAR COMUNICACIÓN UART
 
+Escribir en la consola 
+
 **sudo raspi-config**
 
 
@@ -69,9 +71,11 @@ Agregar lo siguiente al final del texto:
 
 Para salir CTR+X, luego 'Y' para guardar y enter.
 
+![alt text](https://github.com/MariaFernandaG/raspberry/blob/main/im%C3%A1genes/uart6.PNG "Ejemplo")
+
 **sudo reboot**
 
-[referencia](https://www.sigmaelectronica.net/comunicacion-serial-raspberry-pi/)
+[Link de referencia](https://www.sigmaelectronica.net/comunicacion-serial-raspberry-pi/)
 
 
 ## COMÁNDOS ÚTILES 
